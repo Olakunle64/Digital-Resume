@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Resume/static/css/main.6cda3417.css",
-    "main.js": "/Resume/static/js/main.70c58866.js",
-    "static/js/415.fc063c41.chunk.js": "/Resume/static/js/415.fc063c41.chunk.js",
-    "static/js/787.f6e65957.chunk.js": "/Resume/static/js/787.f6e65957.chunk.js",
-    "static/media/agribusiness-education.svg": "/Resume/static/media/agribusiness-education.b9af8d661697b293a2b22abb707ef870.svg",
-    "static/media/pre.svg": "/Resume/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/Resume/index.html",
-    "main.6cda3417.css.map": "/Resume/static/css/main.6cda3417.css.map",
-    "main.70c58866.js.map": "/Resume/static/js/main.70c58866.js.map",
-    "415.fc063c41.chunk.js.map": "/Resume/static/js/415.fc063c41.chunk.js.map",
-    "787.f6e65957.chunk.js.map": "/Resume/static/js/787.f6e65957.chunk.js.map"
+    "main.css": "/Digital-Resume/static/css/main.5b86cbe2.css",
+    "main.js": "/Digital-Resume/static/js/main.444c32b2.js",
+    "static/js/415.fb51c11d.chunk.js": "/Digital-Resume/static/js/415.fb51c11d.chunk.js",
+    "static/js/787.35dd0f9c.chunk.js": "/Digital-Resume/static/js/787.35dd0f9c.chunk.js",
+    "static/media/agribusiness-education.svg": "/Digital-Resume/static/media/agribusiness-education.b9af8d661697b293a2b22abb707ef870.svg",
+    "static/media/pre.svg": "/Digital-Resume/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Digital-Resume/index.html",
+    "main.5b86cbe2.css.map": "/Digital-Resume/static/css/main.5b86cbe2.css.map",
+    "main.444c32b2.js.map": "/Digital-Resume/static/js/main.444c32b2.js.map",
+    "415.fb51c11d.chunk.js.map": "/Digital-Resume/static/js/415.fb51c11d.chunk.js.map",
+    "787.35dd0f9c.chunk.js.map": "/Digital-Resume/static/js/787.35dd0f9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cda3417.css",
-    "static/js/main.70c58866.js"
+    "static/css/main.5b86cbe2.css",
+    "static/js/main.444c32b2.js"
   ]
 }
