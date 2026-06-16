@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16a34a" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#ca8a04" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#16a34a"/>
+    </linearGradient>
+    <linearGradient id="chart" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#16a34a"/>
+      <stop offset="100%" stop-color="#ca8a04"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="480" rx="32" fill="url(#bg)"/>
+  <!-- Barn / agriculture -->
+  <path d="M80 300h160v100H80z" fill="#16a34a" fill-opacity="0.25" stroke="#16a34a" stroke-opacity="0.5" stroke-width="3"/>
+  <path d="M60 300l120-80 120 80" stroke="#ca8a04" stroke-width="6" stroke-linejoin="round" fill="#ca8a04" fill-opacity="0.15"/>
+  <rect x="140" y="340" width="40" height="60" fill="#15803d" fill-opacity="0.5" rx="4"/>
+  <!-- Wheat -->
+  <g transform="translate(300,120)">
+    <line x1="0" y1="0" x2="0" y2="200" stroke="#ca8a04" stroke-width="5" stroke-linecap="round"/>
+    <ellipse cx="-18" cy="30" rx="14" ry="28" fill="url(#leaf)" opacity="0.7" transform="rotate(-25)"/>
+    <ellipse cx="18" cy="50" rx="14" ry="28" fill="url(#leaf)" opacity="0.7" transform="rotate(25)"/>
+    <ellipse cx="-12" cy="90" rx="14" ry="28" fill="url(#leaf)" opacity="0.8" transform="rotate(-20)"/>
+    <ellipse cx="12" cy="110" rx="14" ry="28" fill="url(#leaf)" opacity="0.8" transform="rotate(20)"/>
+  </g>
+  <!-- Finance chart -->
+  <rect x="60" y="80" width="200" height="130" rx="16" fill="#fff" fill-opacity="0.05" stroke="#16a34a" stroke-opacity="0.35"/>
+  <polyline points="90,170 130,130 170,145 210,95 240,110" fill="none" stroke="url(#chart)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="240" cy="110" r="7" fill="#ca8a04"/>
+  <text x="90" y="105" fill="#4ade80" font-family="sans-serif" font-size="22" font-weight="700" opacity="0.9">$</text>
+  <!-- Book / education -->
+  <rect x="330" y="300" width="90" height="70" rx="6" fill="#16a34a" fill-opacity="0.3" stroke="#16a34a" stroke-opacity="0.5"/>
+  <line x1="375" y1="300" x2="375" y2="370" stroke="#ca8a04" stroke-width="3"/>
+</svg>
