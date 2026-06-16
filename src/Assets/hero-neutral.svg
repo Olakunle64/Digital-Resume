@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" fill="none">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--imp-text-color, #14b8a6)" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="var(--accent, #be123c)" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="var(--primary-light, #5eead4)" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="var(--primary-dark, #0f766e)" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <circle cx="240" cy="240" r="200" fill="url(#g1)"/>
+  <circle cx="120" cy="120" r="60" fill="var(--imp-text-color, #14b8a6)" fill-opacity="0.12"/>
+  <circle cx="360" cy="100" r="40" fill="var(--accent, #be123c)" fill-opacity="0.15"/>
+  <circle cx="380" cy="340" r="70" fill="var(--primary-light, #5eead4)" fill-opacity="0.1"/>
+  <ellipse cx="240" cy="400" rx="120" ry="18" fill="#000" fill-opacity="0.15"/>
+  <circle cx="240" cy="175" r="62" fill="url(#g2)"/>
+  <path d="M130 360c0-60 49-108 110-108s110 48 110 108" fill="url(#g2)"/>
+</svg>

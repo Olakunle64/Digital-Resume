@@ -1,0 +1,96 @@
+================================================================================
+  DIGITAL RESUME — QUICK CLIENT FORM
+================================================================================
+
+Your CV already has your experience, skills, and education — we pull most of
+the site from that. This form only asks what makes YOUR website unique.
+
+Takes about 5 minutes. Attach your CV (required) + a photo (recommended).
+
+================================================================================
+1. FILES (attach with this form)
+================================================================================
+
+  [ ] CV / Resume (PDF) — REQUIRED
+  [ ] Professional headshot or photo — recommended
+  [ ] Logo — only if you have one
+  [ ] Images for work highlights — optional
+
+================================================================================
+2. HOW SHOULD YOUR SITE LOOK?
+================================================================================
+
+Pick a color mood (or describe your own):
+  [ ] Professional blue/teal
+  [ ] Warm gold/amber
+  [ ] Elegant purple/violet
+  [ ] Fresh green
+  [ ] Bold red/coral
+  [ ] Minimal dark
+  [ ] Custom: _______________________________________________________________
+
+Have brand colors? Primary hex: _____________  Accent hex: _____________
+
+Website style you like (paste 1–2 links to sites you admire, optional):
+_______________________________________________________________________________
+
+================================================================================
+3. YOUR VOICE (not on most CVs)
+================================================================================
+
+In 2–4 sentences, introduce yourself the way YOU would — friendly, personal,
+not formal like a CV:
+_______________________________________________________________________________
+_______________________________________________________________________________
+_______________________________________________________________________________
+
+3–5 roles or titles to rotate on your homepage (e.g. "Pediatric Nurse",
+"CPR Certified", "Clinical Lead") — or write "use from CV":
+_______________________________________________________________________________
+
+Favorite quote + who said it (optional):
+_______________________________________________________________________________
+
+Hobbies or interests outside work (optional, comma-separated):
+_______________________________________________________________________________
+
+================================================================================
+4. CONTACT & SOCIAL
+================================================================================
+
+Email (for Contact button on site):
+_______________________________________________________________________________
+
+Social links — only list what you use:
+  LinkedIn:   ________________________________________________________________
+  Instagram:  ________________________________________________________________
+  Twitter/X:    ________________________________________________________________
+  Other:      ________________________________________________________________
+
+================================================================================
+5. QUICK PREFERENCES
+================================================================================
+
+Portfolio menu label:  [ ] Work  [ ] Portfolio  [ ] Experience  [ ] Case Studies
+
+Skills display:  [ ] Tags/pills (most careers)  [ ] Icon grid (tech/design)
+
+Include downloadable CV page?  [ ] Yes  [ ] No
+
+Anything you do NOT want on the site, or must be highlighted from your CV?
+_______________________________________________________________________________
+_______________________________________________________________________________
+
+================================================================================
+6. FOOTER CREDIT
+================================================================================
+
+"Designed by" name (your designer/business name):
+_______________________________________________________________________________
+
+Copyright initials or brand (e.g. JD, Acme Co.):
+_______________________________________________________________________________
+
+================================================================================
+  That's it — return this form + your CV. Thank you!
+================================================================================

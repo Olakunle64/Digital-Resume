@@ -1,0 +1,40 @@
+DIGITAL RESUME — QUICK CLIENT FORM
+Most content comes from the client's CV. Only ask what personalizes the site.
+~5 minutes to complete. Attach CV (required) + photo (recommended).
+
+SECTION 1 — FILES
+- CV/Resume PDF (required)
+- Professional headshot (recommended)
+- Logo (optional)
+- Work highlight images (optional)
+
+SECTION 2 — LOOK & FEEL
+1. Color mood: blue/teal | gold/amber | purple | green | red/coral | dark minimal | custom (describe)
+2. Brand hex colors — primary + accent (optional)
+3. Example websites they like (1–2 URLs, optional)
+
+SECTION 3 — PERSONAL VOICE (not on CV)
+4. Intro in their own words — 2–4 friendly sentences
+5. Homepage rotating titles (3–5 roles) OR "use from CV"
+6. Favorite quote + author (optional)
+7. Hobbies/interests (optional, comma-separated)
+
+SECTION 4 — CONTACT & SOCIAL
+8. Email (Contact button)
+9. Social URLs — LinkedIn, Instagram, Twitter/X, other (only what they use)
+
+SECTION 5 — PREFERENCES
+10. Portfolio menu label: Work | Portfolio | Experience | Case Studies
+11. Skills display: pills/tags | icon grid
+12. Include CV download page? Yes/No
+13. Anything to exclude or specially highlight from CV
+
+SECTION 6 — FOOTER
+14. "Designed by" credit name
+15. Copyright name (initials/brand)
+
+FOR AI/DEV: Extract from CV — name, title, location, education, experience,
+skills, work history → portfolio items. Form supplies theme, voice, social,
+preferences, assets. Map to src/config/siteConfig.js.
+
+END
